@@ -1,6 +1,6 @@
 # Simple HTML CV Project
 
-This is a simple HTML CV project showcasing skills, education, and experience using HTML and CSS.
+This project is focused on creating a structured, single-page CV using only HTML. It covers semantic HTML, basic SEO principles, Open Graph (OG) tags for social media sharing, and includes a favicon.
 
-## Project URL
-You can view the project or clone the repository from the following URL: [Github Repository - Single Page CV](https://github.com/Collinzo2022/Single-Page-CV)
+## How to View the Project
+You can view the project here: https://single-page-cv-six.vercel.app
